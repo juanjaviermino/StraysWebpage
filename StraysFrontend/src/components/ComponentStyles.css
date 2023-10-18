@@ -263,6 +263,10 @@ input:focus{
     border-radius: 20px;
 }
 
+.form button:focus{
+    outline: none;
+}
+
 .btn-action{
     color: white;
     background-color: var(--strays-color);
